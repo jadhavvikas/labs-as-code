@@ -1,0 +1,2 @@
+- deprecated stuff
+- retained as a reminder of lessons learnt
